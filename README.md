@@ -1,4 +1,4 @@
-# PDO Production Dashboard
+# PDO Dashboard
 
 This repository contains code that simulates realistic well-level production data for PDO (Petroleum Development Oman) and builds an interactive Shiny web dashboard for dynamic field and well monitoring. The app allows exploration of synthetic oilfield metrics such as oil, gas, water production, GOR, well integrity, and operational risk levels.
 
