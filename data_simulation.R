@@ -121,6 +121,6 @@ full_data <- well_metadata %>%
   map_dfr(generate_well_data)
 
 # Save to CSV
-setwd("~/Desktop/GitHub/Petroleum_Analysis")
+setwd("") # set to your working directory
 write.csv(full_data, "synthetic_pdo_data_2025.csv", row.names = FALSE)
 
